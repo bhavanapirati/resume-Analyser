@@ -1,0 +1,5 @@
+{
+  "name": "Copy of InnoMatch: Resume Relevance Engine",
+  "description": "An AI-powered system to automate resume evaluation against job descriptions. It generates a relevance score, highlights skill gaps, provides a suitability verdict, and offers personalized feedback to streamline the shortlisting process for recruiters and guide students.",
+  "requestFramePermissions": []
+}
